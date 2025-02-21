@@ -1,1 +1,1 @@
-Esto es un .txt de confirmación que todo está ok desde local!
+Esto es un .txt de de confirmación de las SSH!
